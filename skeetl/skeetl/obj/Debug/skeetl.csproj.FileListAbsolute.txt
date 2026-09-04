@@ -1,0 +1,10 @@
+C:\Users\monke\Desktop\skeetloader\skeetl\skeetl\bin\Debug\skeetl.exe.config
+C:\Users\monke\Desktop\skeetloader\skeetl\skeetl\bin\Debug\skeetl.exe
+C:\Users\monke\Desktop\skeetloader\skeetl\skeetl\bin\Debug\skeetl.pdb
+C:\Users\monke\Desktop\skeetloader\skeetl\skeetl\obj\Debug\skeetl.csproj.AssemblyReference.cache
+C:\Users\monke\Desktop\skeetloader\skeetl\skeetl\obj\Debug\skeetl.Properties.Resources.resources
+C:\Users\monke\Desktop\skeetloader\skeetl\skeetl\obj\Debug\skeetl.csproj.GenerateResource.cache
+C:\Users\monke\Desktop\skeetloader\skeetl\skeetl\obj\Debug\skeetl.csproj.CoreCompileInputs.cache
+C:\Users\monke\Desktop\skeetloader\skeetl\skeetl\obj\Debug\skeetl.exe
+C:\Users\monke\Desktop\skeetloader\skeetl\skeetl\obj\Debug\skeetl.pdb
+C:\Users\monke\Desktop\skeetloader\skeetl\skeetl\obj\Debug\skeetl.exe.config
